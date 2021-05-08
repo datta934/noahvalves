@@ -445,7 +445,7 @@
 			if (name === '' || emailId === '' || phone === '' || message === '') {
 				alert('Please fill all details in the form');
 			} else {
-				window.location.href = "mailto:mal@com?subject=NOAH VALVES ENQUIRY&body=Name: " + name + "%0DEmail: " + emailId + "%0DPhone: " + phone + "%0DMessage: " + message;
+				window.location.href = "mailto:info@noahvalvescompany.com?subject=NOAH VALVES ENQUIRY&body=Name: " + name + "%0DEmail: " + emailId + "%0DPhone: " + phone + "%0DMessage: " + message;
 
 			}
 		});
