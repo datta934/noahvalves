@@ -1411,34 +1411,6 @@ h6 {
     background-color: rgba(200, 200, 200, 0.8);
 }
 
-#footer .gotop {
-    position: absolute;
-    top: -20px;
-    left: 50%;
-    margin-left: -40px;
-    background: #fff;
-    z-index: 8;
-    width: 80px;
-    height: 80px;
-    font-size: 30px;
-    padding-top: 5px;
-    text-align: center;
-    vertical-align: middle;
-    -webkit-border-radius: 50%;
-    -moz-border-radius: 50%;
-    -ms-border-radius: 50%;
-    border-radius: 50%;
-    -webkit-transition: 0.2s;
-    -o-transition: 0.2s;
-    transition: 0.2s;
-}
-
-#footer .gotop:hover,
-#footer .gotop:focus {
-    top: -25px;
-    text-decoration: none !important;
-}
-
 #footer .copyright {
     font-size: 16px;
     margin-bottom: 0px;
@@ -1632,13 +1604,4 @@ h6 {
     animation-duration: 0.3s;
     -webkit-animation-fill-mode: both;
     animation-fill-mode: both;
-}
-
-#wave {
-    position: absolute;
-    bottom: 162px;
-    left: 0;
-    height: 300px;
-    width: 100%;
-    z-index: 0;
 }
